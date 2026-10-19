@@ -1,0 +1,16 @@
+{
+  "startup": "SUCCESS",
+  "timestamp": "2026-10-15T16:25:24.559664",
+  "book1_loaded": true,
+  "book2_loaded": true,
+  "companies": [
+    "Kinchrome",
+    "REDAI",
+    "Yash",
+    "Tektron",
+    "Ama",
+    "Yash 2",
+    "Yash 3"
+  ],
+  "logo_resolved": true
+}

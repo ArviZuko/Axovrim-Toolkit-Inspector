@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-10-15T15:45:28.959870",
+  "base_dir": "E:\\LAB\\ToolKit Inspector\\AXOVRIM_GoogleDrive_Upload\\05. Application",
+  "is_frozen": true,
+  "checks": {
+    "pytorch": {
+      "status": "PASS",
+      "version": "2.14.1+cpu",
+      "cuda_available": false,
+      "tensor_shape": [
+        1,
+        3,
+        64,
+        64
+      ]
+    },
+    "smartlab_logo": {
+      "status": "PASS",
+      "path": "E:\\LAB\\ToolKit Inspector\\AXOVRIM_GoogleDrive_Upload\\05. Application\\Smartlab Logo.png",
+      "exists": true
+    },
+    "model_loading": {
+      "status": "PASS",
+      "manifest_ok": true,
+      "model_ok": true,
+      "resolved_path": "Models/best (2).pt",
+      "model_task": "segment"
+    },
+    "yolo_inference": {
+      "status": "PASS",
+      "detections_returned": 0
+    },
+    "book1_companies": {
+      "status": "PASS",
+      "loaded": true,
+      "companies": [
+        "Kinchrome",
+        "REDAI",
+        "Yash",
+        "Tektron",
+        "Ama",
+        "Yash 2",
+        "Yash 3"
+      ]
+    },
+    "book2_sockets": {
+      "status": "PASS",
+      "loaded": true,
+      "companies": [
+        "Kinchrome",
+        "REDAI",
+        "Yash",
+        "Tektron",
+        "Ama"
+      ]
+    },
+    "realsense": {
+      "status": "PASS",
+      "library_available": true,
+      "version": "2.58.4",
+      "devices_found": 0,
+      "device_names": []
+    },
+    "worker_session": {
+      "status": "PASS",
+      "active_worker": "WRK-001",
+      "session_active": true
+    },
+    "inspection_storage": {
+      "status": "PASS",
+      "storage_dir": "E:\\LAB\\ToolKit Inspector\\AXOVRIM_GoogleDrive_Upload\\05. Application\\data\\inspections",
+      "exists": true
+    },
+    "pdf_report": {
+      "status": "PASS",
+      "pdf_path": "E:\\LAB\\ToolKit Inspector\\AXOVRIM_GoogleDrive_Upload\\05. Application\\Reports\\TEST_BATCH\\verification_test_report.pdf",
+      "size_bytes": 13134
+    }
+  }
+}

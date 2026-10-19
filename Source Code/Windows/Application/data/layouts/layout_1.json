@@ -1,0 +1,56 @@
+{
+  "layout_id": "8bc92216-a0a2-4046-9baa-06aebf88c3a5",
+  "toolkit_id": "1",
+  "timestamp": "2026-10-10T11:41:37.534826",
+  "sockets": [
+    {
+      "reference_id": "S01",
+      "normalized_x": 0.42734375,
+      "normalized_y": 0.7319444444444444,
+      "px_x": 547,
+      "px_y": 527
+    },
+    {
+      "reference_id": "S02",
+      "normalized_x": 0.44765625,
+      "normalized_y": 0.7305555555555555,
+      "px_x": 573,
+      "px_y": 526
+    },
+    {
+      "reference_id": "S04",
+      "normalized_x": 0.4859375,
+      "normalized_y": 0.7291666666666666,
+      "px_x": 622,
+      "px_y": 525
+    },
+    {
+      "reference_id": "S07",
+      "normalized_x": 0.65703125,
+      "normalized_y": 0.7263888888888889,
+      "px_x": 841,
+      "px_y": 523
+    },
+    {
+      "reference_id": "S03",
+      "normalized_x": 0.46484375,
+      "normalized_y": 0.7305555555555555,
+      "px_x": 595,
+      "px_y": 526
+    },
+    {
+      "reference_id": "S05",
+      "normalized_x": 0.61015625,
+      "normalized_y": 0.7333333333333333,
+      "px_x": 781,
+      "px_y": 528
+    },
+    {
+      "reference_id": "S06",
+      "normalized_x": 0.63359375,
+      "normalized_y": 0.7291666666666666,
+      "px_x": 811,
+      "px_y": 525
+    }
+  ]
+}

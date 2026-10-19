@@ -1,0 +1,24 @@
+Result 
+
+Classification Report:
+
+                 precision    recall  f1-score   support
+
+        Adaptor       0.45      0.27      0.33       319
+      Allen Key       0.00      0.00      0.00        42
+     Bit Holder       0.39      0.35      0.37       179
+     Bit Socket       0.77      0.70      0.73      2567
+           Bits       0.90      0.69      0.79       685
+    Deep Socket       0.81      0.90      0.85     20804
+  Extension Bar       0.73      0.61      0.66      2711
+    Flex Handle       0.31      0.33      0.32       459
+Long bit socket       0.61      0.47      0.53      1399
+  Rachet Handle       0.79      0.56      0.65      1463
+       S Handle       0.75      0.36      0.48       707
+        Sockets       0.89      0.89      0.89     25752
+       Spanners       0.47      0.06      0.11       108
+universal joint       0.81      0.57      0.67       971
+
+       accuracy                           0.83     58166
+      macro avg       0.62      0.48      0.53     58166
+   weighted avg       0.82      0.83      0.82     58166

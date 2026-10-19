@@ -1,0 +1,23 @@
+Accuracy - 92.6
+Precision: 0.9132
+Recall:    0.8958
+F1 Score:  0.9044
+Average mAP@0.5: 0.9260
+Average mAP@0.5:0.95: 0.7309
+
+ Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 18/18 [00:08<00:00,  2.12it/s]
+                   all        284       8369      0.913      0.896      0.926      0.731
+               Adaptor         34         48      0.927      0.791      0.853      0.707
+             Allen Key          6          6       0.83          1      0.995      0.873
+            Bit Holder          7          8      0.896       0.75      0.758      0.609
+           Bit Sockets         37        601      0.994      0.952      0.986      0.792
+                  Bits         31        534        0.9      0.824       0.91      0.524
+           Deep Socket        144       1981      0.916      0.791       0.86      0.698
+         Extension Bar        178        500      0.951      0.914      0.955      0.735
+           Flex Handle         13         13      0.805      0.846      0.844       0.66
+        Rachet-Handels        162        200      0.943      0.908      0.945      0.764
+              S Handle          4          4      0.771          1      0.995      0.835
+               Sockets        204       3961       0.96      0.902      0.937      0.723
+              Spanners          1         12      0.977          1      0.995      0.823
+       long bit socket         19        320      0.956      0.957      0.974      0.736
+       universal joint        133        181      0.958      0.906      0.958      0.754

@@ -1,0 +1,11 @@
+# Local environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+Source Code/Windows/staging_build/
+Source Code/Windows/Application/_internal/
+Source Code/Windows/Installer/AXOVRIM_Setup.exe
+Source Code/Windows/Models/Segmentation/Masked R-CNN/maskrcnn_roboflow_weights.pth
+Source Code/Windows/SRC/build/
+Source Code/Windows/SRC/dist/

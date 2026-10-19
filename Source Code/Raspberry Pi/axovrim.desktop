@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AXOVRIM
+GenericName=AI-Powered Toolkit Quality Inspection
+Comment=RealSense 3D Metrology and YOLOv11 Inspection Application
+Exec=/bin/bash -c "cd '%k' && ./launch_axovrim.sh"
+Path=%k
+Icon=Smartlab Logo.png
+Terminal=false
+Categories=Development;Engineering;Science;
+StartupNotify=true

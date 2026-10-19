@@ -1,0 +1,56 @@
+{
+  "layout_id": "8bc36318-8ab3-4cad-a862-4a37f8d56de3",
+  "toolkit_id": "MOCK_TOOLKIT",
+  "timestamp": "2026-10-09T20:16:53.605118",
+  "sockets": [
+    {
+      "reference_id": "S01",
+      "normalized_x": 0.29375,
+      "normalized_y": 0.6944444444444444,
+      "px_x": 376,
+      "px_y": 500
+    },
+    {
+      "reference_id": "S02",
+      "normalized_x": 0.31015625,
+      "normalized_y": 0.6944444444444444,
+      "px_x": 397,
+      "px_y": 500
+    },
+    {
+      "reference_id": "S03",
+      "normalized_x": 0.33125,
+      "normalized_y": 0.6944444444444444,
+      "px_x": 424,
+      "px_y": 500
+    },
+    {
+      "reference_id": "S04",
+      "normalized_x": 0.3515625,
+      "normalized_y": 0.6944444444444444,
+      "px_x": 450,
+      "px_y": 500
+    },
+    {
+      "reference_id": "S05",
+      "normalized_x": 0.475,
+      "normalized_y": 0.7041666666666667,
+      "px_x": 608,
+      "px_y": 507
+    },
+    {
+      "reference_id": "S06",
+      "normalized_x": 0.49765625,
+      "normalized_y": 0.7,
+      "px_x": 637,
+      "px_y": 504
+    },
+    {
+      "reference_id": "S07",
+      "normalized_x": 0.52421875,
+      "normalized_y": 0.6972222222222222,
+      "px_x": 671,
+      "px_y": 502
+    }
+  ]
+}

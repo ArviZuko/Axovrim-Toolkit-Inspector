@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 0
+names: []
+
+roboflow:
+  workspace: aditya-x93eb
+  project: testing-toolkit-qjrp6
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aditya-x93eb/testing-toolkit-qjrp6/dataset/1
