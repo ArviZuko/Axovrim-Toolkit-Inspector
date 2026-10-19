@@ -27,7 +27,7 @@ Source Code/
 requirements.txt              Windows source dependencies
 ```
 
-The repository excludes the generated Windows `_internal` runtime, the oversized installer executable, and the oversized Mask R-CNN weight file because they exceed practical Git/GitHub limits. Their source files, build specification, experimental notebooks, and other model weights remain in the tree. To build a complete Windows distribution, use `Source Code/Windows/SRC/build_exe.bat` and the installer specification in `Source Code/Windows/Installer/AXOVRIM_Setup.iss`.
+Three large files or file groups are supplied as [Release downloads](https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/tag/large-assets-2026-10-19) rather than regular Git objects: the [Windows installer](Source%20Code/Windows/Installer/installer.md), [packaged Windows runtime](Source%20Code/Windows/Application/_internal.md), and [Mask R-CNN experimental weight](Source%20Code/Windows/Models/Segmentation/Masked%20R-CNN/README.md). The instructions at their original locations contain direct download links. To rebuild a Windows distribution, use `Source Code/Windows/SRC/build_exe.bat` and the installer specification in `Source Code/Windows/Installer/AXOVRIM_Setup.iss`.
 
 ## Run from source on Windows
 
