@@ -53,7 +53,7 @@ For Raspberry Pi 5, follow [`Source Code/Raspberry Pi/README.md`](Source%20Code/
 4. Review the PASS, REVIEW, or FAIL decision and any manual override.
 5. Save the inspection and generate a PDF/JSON batch report.
 
-See the [final report](Documentation/AXOVRIM_Final_Report.docx), [presentation](Documentation/AXOVRIM_Presentation.pptx), and [screenshots](Screenshots/) for the project background and interface.
+See the [final report](Documentation/AXOVRIM_Final_Report.docx), [presentation](Documentation/AXOVRIM_Presentation.pptx), [demonstration video](Documentation/AXOVRIM.mp4), and [screenshots](Screenshots/) for the project background and interface. The video is stored with Git LFS; install Git LFS before cloning if you need the full MP4 locally.
 
 ## Model and data notes
 
