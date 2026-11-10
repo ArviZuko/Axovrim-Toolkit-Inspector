@@ -6,7 +6,9 @@ Standalone Industrial Metrology & Automated Optical Inspection Application
 QUICK START GUIDE & OPERATING INSTRUCTIONS
 
 1. DOWNLOAD AND FOLDER PLACEMENT
-   - Download the entire '05. Application' folder from Google Drive to your local PC.
+   - Install Git LFS, clone https://github.com/ArviZuko/Axovrim-Toolkit-Inspector.git,
+     and run 'git lfs pull' in the cloned repository to retrieve the large files.
+   - Use the 'Source Code/Windows/Application' folder from the clone.
    - Place it in a directory where your Windows user has standard read/write permissions 
      (e.g., C:\AXOVRIM\ or your Desktop).
    - CRITICAL: Keep AXOVRIM.exe and all accompanying folders (_internal, Models, 
