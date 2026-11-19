@@ -1,0 +1,30 @@
+# AXOVRIM — Raspberry Pi 5 (Linux ARM64 / aarch64) Python Dependencies
+# Compatible with Raspberry Pi OS Bookworm (64-bit) & Python 3.11 / 3.12
+
+# Core Computer Vision & Deep Learning (ARM64 wheels available on PyPI)
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+
+# Scientific & Numerical Packages
+numpy>=1.23.5
+scipy>=1.10.0
+Pillow>=10.0.0
+
+# Data Management & Excel
+pandas>=2.0.0
+openpyxl>=3.1.2
+PyYAML>=6.0
+
+# Audit-Compliant PDF Reporting
+reportlab>=3.6.0
+
+# GUI Framework (PyQt5)
+# Note: On Raspberry Pi OS Bookworm, system-provided python3-pyqt5
+# is recommended via 'sudo apt install python3-pyqt5' and venv with --system-site-packages
+PyQt5>=5.15.9
+
+# Intel RealSense SDK Note:
+# Intel does NOT publish official ARM64 binary wheels on PyPI.
+# pyrealsense2 is installed via librealsense2 build or system package as handled by install_dependencies.sh.

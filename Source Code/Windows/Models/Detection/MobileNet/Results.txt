@@ -1,0 +1,20 @@
+Accuracy : 87%
+
+Classification Report:
+
+                 precision    recall  f1-score   support
+
+        Adaptor       1.00      1.00      1.00         1
+    Bit Sockets       0.83      0.62      0.71        16
+           Bits       1.00      1.00      1.00         2
+    Deep Socket       0.90      0.81      0.85        69
+  Extension Bar       0.78      0.64      0.70        11
+    Flex Handle       0.50      0.75      0.60         4
+ Rachet-Handels       0.50      0.50      0.50        10
+        Sockets       0.90      0.96      0.93       156
+long bit socket       0.92      1.00      0.96        12
+universal joint       0.67      0.67      0.67         3
+
+       accuracy                           0.87       284
+      macro avg       0.80      0.80      0.79       284
+   weighted avg       0.87      0.87      0.87       284

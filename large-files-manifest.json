@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "path": "Documentation/AXOVRIM.mp4",
+      "size": 245914631,
+      "sha256": "7d9c8f5383694ba3aaaed570cd700bd70c752cc27f1ff95fa7ff14d91c2c1fa6",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/download/large-files-no-lfs/AXOVRIM.mp4",
+          "size": 245914631,
+          "sha256": "7d9c8f5383694ba3aaaed570cd700bd70c752cc27f1ff95fa7ff14d91c2c1fa6",
+          "name": "AXOVRIM.mp4"
+        }
+      ]
+    },
+    {
+      "path": "Source Code/Windows/Application/_internal/_polars_runtime_32/_polars_runtime.pyd",
+      "size": 171975680,
+      "sha256": "671f9cf42c7baf304d0814c6363c4f23ceaeb8f2eb0897a34e5ecb4b8a4b6e8b",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/download/large-files-no-lfs/_polars_runtime.pyd",
+          "size": 171975680,
+          "sha256": "671f9cf42c7baf304d0814c6363c4f23ceaeb8f2eb0897a34e5ecb4b8a4b6e8b",
+          "name": "_polars_runtime.pyd"
+        }
+      ]
+    },
+    {
+      "path": "Source Code/Windows/Application/_internal/torch/lib/torch_cpu.dll",
+      "size": 305887744,
+      "sha256": "8bd59cf6a084f297f89e5fe5ec0df73efaeda68feb83b3db9fbc53d7498f291f",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/download/large-files-no-lfs/torch_cpu.dll",
+          "size": 305887744,
+          "sha256": "8bd59cf6a084f297f89e5fe5ec0df73efaeda68feb83b3db9fbc53d7498f291f",
+          "name": "torch_cpu.dll"
+        }
+      ]
+    },
+    {
+      "path": "Source Code/Windows/Installer/AXOVRIM_Setup.exe",
+      "size": 276821432,
+      "sha256": "2eae14c2dcf28c9826e2703fdd87476a3d193164b69678733a34e68efceb3be9",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/download/large-assets-2026-10-19/AXOVRIM_Setup.exe",
+          "size": 276821432,
+          "sha256": "2eae14c2dcf28c9826e2703fdd87476a3d193164b69678733a34e68efceb3be9",
+          "name": "AXOVRIM_Setup.exe"
+        }
+      ]
+    },
+    {
+      "path": "Source Code/Windows/Models/Segmentation/Masked R-CNN/maskrcnn_roboflow_weights.pth",
+      "size": 178146730,
+      "sha256": "79616f6d892a6fbedb69d8e31d1f03ef2bd5c53cea42c7f85ffe0ecb5e257eac",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Axovrim-Toolkit-Inspector/releases/download/large-assets-2026-10-19/maskrcnn_roboflow_weights.pth",
+          "size": 178146730,
+          "sha256": "79616f6d892a6fbedb69d8e31d1f03ef2bd5c53cea42c7f85ffe0ecb5e257eac",
+          "name": "maskrcnn_roboflow_weights.pth"
+        }
+      ]
+    }
+  ]
+}

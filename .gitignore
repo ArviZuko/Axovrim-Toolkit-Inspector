@@ -1,0 +1,8 @@
+# Local environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+Source Code/Windows/staging_build/
+Source Code/Windows/SRC/build/
+Source Code/Windows/SRC/dist/

@@ -1,0 +1,22 @@
+ Classification Report (based on IoU ≥ 0.5 and conf ≥ 0.5):
+                   precision    recall  f1-score   support
+
+background/missed       0.00      0.00      0.00       579
+          Adaptor       0.80      0.58      0.67        48
+        Allen Key       1.00      0.83      0.91         6
+       Bit Holder       0.00      0.00      0.00         8
+      Bit Sockets       0.96      0.87      0.91       601
+             Bits       0.80      0.65      0.72       534
+      Deep Socket       0.90      0.83      0.87      1981
+    Extension Bar       0.82      0.91      0.86       500
+      Flex Handle       0.77      0.77      0.77        13
+   Rachet-Handels       0.85      0.89      0.87       200
+         S Handle       0.00      0.00      0.00         4
+          Sockets       0.92      0.91      0.91      3961
+         Spanners       1.00      1.00      1.00        12
+  long bit socket       0.89      0.85      0.87       320
+  universal joint       0.84      0.91      0.87       181
+
+         accuracy                           0.81      8948
+        macro avg       0.70      0.67      0.68      8948
+     weighted avg       0.84      0.81      0.82      8948
